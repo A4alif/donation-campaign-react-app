@@ -1,4 +1,4 @@
- [
+[
   {
     "id": 1,
     "img": "https://i.postimg.cc/3wSCZp3y/health-clean-water.jpg",
@@ -7,81 +7,83 @@
     "description": "Ensure access to pristine, life-sustaining water for children worldwide. Join us in our mission to provide clean water sources, preventing waterborne diseases and nurturing healthy futures for young ones.",
     "price": 150,
     "category": "health",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff33",
     "text_color": "#0052FF"
   },
+
   {
     "id": 2,
-    "img": "https://i.postimg.cc/wTHshhW2/health-clean-water-2.jpg",
-    "img_thumb": "https://i.postimg.cc/Y02MSq36/health-clean-water-2.jpg",
-    "title": "Childhood's Clear Springs",
-    "description": " Dive into the endeavor of securing crystal-clear water for kids everywhere. With your support, we purify water sources, safeguarding the health and happiness of children by eliminating water contamination risks.",
-    "price": 240,
-    "category": "health",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
-    "text_color": "#0052FF"
-  },
-  {
-    "id": 3,
-    "img": "https://i.postimg.cc/xjLzJsPq/health-clean-water-3.jpg",
-    "img_thumb": "https://i.postimg.cc/ZqkmdLHK/health-clean-water-3.jpg",
-    "title": "Hydration for Youth",
-    "description": " Dive into the endeavor of securing crystal-clear water for kids everywhere. With your support, we purify water sources, safeguarding the health and happiness of children by eliminating water contamination risks.",
-    "price": 120,
-    "category": "health",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
-    "text_color": "#0052FF"
-  },
-  {
-    "id": 4,
     "img": "https://i.postimg.cc/28ZvBMqB/education-good-education.jpg",
     "img_thumb": "https://i.postimg.cc/J4nRV0tm/education-good-education-1.jpg",
     "title": "Empower Education Now",
     "description": " Empower Education Now is dedicated to breaking the cycle of poverty through quality education. Your donation helps underprivileged children access the tools and resources they need to build a brighter future. Join us in making education a pathway to success for all.",
     "price": 320,
     "category": "education",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_color": "#FF444A"
+  },
+  {
+    "id": 3,
+    "img": "https://i.postimg.cc/FHCd5whC/food-better-food-for-everyone-2.jpg",
+    "img_thumb": "https://i.postimg.cc/ydjC2CHk/food-better-food-for-everyone-2.jpg",
+    "title": "Nourish for All",
+    "description": " Nourish for All is dedicated to eradicating hunger. Your support fuels our efforts to distribute food to underserved communities, offering sustenance and hope to those who need it most. Together, we can create a world where everyone has access to a nutritious meal. ",
+    "price": 490,
+    "category": "food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_color": "#F87147"
+  },
+
+  {
+    "id": 4,
+    "img": "https://i.postimg.cc/wTHshhW2/health-clean-water-2.jpg",
+    "img_thumb": "https://i.postimg.cc/Y02MSq36/health-clean-water-2.jpg",
+    "title": "Childhood's Clear Springs",
+    "description": " Dive into the endeavor of securing crystal-clear water for kids everywhere. With your support, we purify water sources, safeguarding the health and happiness of children by eliminating water contamination risks.",
+    "price": 240,
+    "category": "health",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff33",
     "text_color": "#0052FF"
   },
   {
     "id": 5,
-    "img": "https://i.postimg.cc/hv8zkjGV/education-good-education-2.jpg",
-    "img_thumb": "https://i.postimg.cc/SQZpr4dP/education-good-education-2.jpg",
-    "title": "Education for All",
-    "description": "  Education for All is on a mission to bridge educational disparities. Your support enables us to provide scholarships, school supplies, and educational opportunities to disadvantaged students. Together, we can ensure that every child, regardless of their circumstances, has a chance to learn and grow.",
-    "price": 290,
-    "category": "education",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
-    "text_color": "#0052FF"
-  },
-  {
-    "id": 6,
     "img": "https://i.postimg.cc/J0CHYJR1/education-good-education-3.jpg",
     "img_thumb": "https://i.postimg.cc/7hQ8Y1b4/education-good-education-3.jpg",
     "title": "Learning Without Limits",
     "description": "   Learning Without Limits believes that every child deserves a chance to thrive through education. By contributing, you're opening doors for impoverished students, granting them access to quality learning experiences and the chance to break free from poverty's grip. Help us unlock their potential.",
     "price": 450,
     "category": "education",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
-    "text_color": "#0052FF"
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_color": "#FF444A"
   },
   {
-    "id": 7,
+    "id": 6,
     "img": "https://i.postimg.cc/0yvf5PtN/clothe-used-clothing-drive.jpg",
     "img_thumb": "https://i.postimg.cc/VNj8BbZ9/clothe-used-clothing-drive-1.jpg",
     "title": "Clothe the Needy",
     "description": "   Join our initiative, Clothe the Needy, and make a meaningful impact by donating clothing to those less fortunate. Your generosity helps keep individuals warm, confident, and dignified, even in challenging times.",
     "price": 190,
     "category": "clothing",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
-    "text_color": "#0052FF"
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_color": "#79C23F"
+  },
+  {
+    "id": 7,
+    "img": "https://i.postimg.cc/hv8zkjGV/education-good-education-2.jpg",
+    "img_thumb": "https://i.postimg.cc/SQZpr4dP/education-good-education-2.jpg",
+    "title": "Education for All",
+    "description": "  Education for All is on a mission to bridge educational disparities. Your support enables us to provide scholarships, school supplies, and educational opportunities to disadvantaged students. Together, we can ensure that every child, regardless of their circumstances, has a chance to learn and grow.",
+    "price": 290,
+    "category": "education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_color": "#FF444A"
   },
   {
     "id": 8,
@@ -91,9 +93,9 @@
     "description": "   Threads of Hope invites you to share your gently used clothing with those in need. Your donations provide not just warmth but also a renewed sense of hope and self-esteem for underprivileged individuals and families.",
     "price": 240,
     "category": "clothing",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
-    "text_color": "#0052FF"
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_color": "#79C23F"
   },
   {
     "id": 9,
@@ -103,9 +105,9 @@
     "description": "  Support Dress for Success and empower disadvantaged individuals to overcome barriers with appropriate attire. Your donated clothing items can be the key to unlocking new opportunities and a brighter future for someone striving to improve their life. Donate today!",
     "price": 170,
     "category": "clothing",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
-    "text_color": "#0052FF"
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_color": "#79C23F"
   },
   {
     "id": 10,
@@ -115,20 +117,21 @@
     "description": " Join us in the mission to Feed the Hungry and make a real difference in the lives of those facing food insecurity. Your donations enable us to provide nourishing meals to individuals and families in need, ensuring no one goes to bed hungry ",
     "price": 350,
     "category": "food",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
-    "text_color": "#0052FF"
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_color": "#F87147"
   },
+
   {
     "id": 11,
-    "img": "https://i.postimg.cc/FHCd5whC/food-better-food-for-everyone-2.jpg",
-    "img_thumb": "https://i.postimg.cc/ydjC2CHk/food-better-food-for-everyone-2.jpg",
-    "title": "Nourish for All",
-    "description": " Nourish for All is dedicated to eradicating hunger. Your support fuels our efforts to distribute food to underserved communities, offering sustenance and hope to those who need it most. Together, we can create a world where everyone has access to a nutritious meal. ",
-    "price": 490,
-    "category": "food",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
+    "img": "https://i.postimg.cc/xjLzJsPq/health-clean-water-3.jpg",
+    "img_thumb": "https://i.postimg.cc/ZqkmdLHK/health-clean-water-3.jpg",
+    "title": "Hydration for Youth",
+    "description": " Dive into the endeavor of securing crystal-clear water for kids everywhere. With your support, we purify water sources, safeguarding the health and happiness of children by eliminating water contamination risks.",
+    "price": 120,
+    "category": "health",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff33",
     "text_color": "#0052FF"
   },
   {
@@ -139,8 +142,8 @@
     "description": "  Share the Bounty is committed to sharing the abundance of resources with those less fortunate. Your contributions help us source, prepare, and distribute food to vulnerable populations, addressing hunger and building stronger, healthier communities. Make a donation today and be a part of our mission to end food insecurity. ",
     "price": 370,
     "category": "food",
-    "category_bg": "#0052FFFF34",
-    "card_bg": "#0052FFFF26",
-    "text_color": "#0052FF"
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_color": "#F87147"
   }
 ]
