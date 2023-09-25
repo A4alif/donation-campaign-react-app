@@ -5,7 +5,7 @@ const DonationSingleCard = ({donation}) => {
     const {id, img, title, category, category_bg, card_bg, text_color} = donation;
   return (
     <>
-      <Link to={`/donation/${id}`} className="card card-compact  bg-base-100 shadow-xl">
+      <Link to={`/donationmoney/${id}`} className="card card-compact  bg-base-100 shadow-xl">
         <figure>
           <img
             className="h-48 w-full object-cover"
