@@ -8,7 +8,7 @@ const useFetch = () => {
       .then((res) => res.json())
       .then((data) => setDonations(data));
   }, []);
-
+  // console.log(donations);
   return { donations, setDonations };
 };
 

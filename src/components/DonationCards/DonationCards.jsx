@@ -2,8 +2,8 @@ import React from 'react'
 import useFetch from '../../hooks/useFetch';
 import DonationSingleCard from './DonationSingleCard';
 
-const DonationCards = () => {
-    const {donations, setDonations} = useFetch();
+const DonationCards = ({donations}) => {
+    // const {donations, setDonations} = useFetch();
     
   return (
     <>
