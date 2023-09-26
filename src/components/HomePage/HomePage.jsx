@@ -10,8 +10,6 @@ const HomePage = () => {
     .then( res => res.json())
     .then( data => setDonations(data))
   }, [])
-
- 
   
   return (
     <>

@@ -1,12 +1,23 @@
 import React from "react";
+import Swal from "sweetalert2";
 
 const Banner = ({donations, setDonations}) => {
   const handleSearch = (e) => {
     e.preventDefault();
     const form = e.target;
     const inputField = form.name.value.toLowerCase()
-    const searchDonations = donations.filter( (donation) => donation.category == inputField)
-    setDonations(searchDonations)
+    if(inputField === ""){
+      Swal.fire({
+        icon: 'warning',
+        title: 'Oops',
+        text: 'Please enter something to search',
+        
+      })
+    } else {
+      const searchDonations = donations.filter( (donation) => donation.category == inputField)
+      setDonations(searchDonations)
+    }
+   
   }
   return (
     <>

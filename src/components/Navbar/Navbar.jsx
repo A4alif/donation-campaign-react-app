@@ -3,7 +3,7 @@ import logo from "../../assets/images/logo.png";
 const Navbar = () => {
   return (
     <>
-      <nav className="container mx-auto px-4 absolute top-0 left-0 right-0 bottom-0  ">
+      <nav  className="container mx-auto px-4  ">
         <div className="navbar pt-9 ">
           <div className="navbar-start">
             <div className="dropdown">

@@ -21,7 +21,7 @@ const DonationPage = () => {
 
   return (
     <>
-      <div className="container mx-auto mt-40 py-14 p-4 ">
+      <div className="container mx-auto mt-20 p-4 ">
         {noDataFound ? (
           <p className="text-center text-2xl font-bold"> {noDataFound}</p>
         ) : (

@@ -26,7 +26,7 @@ const SingleDonationDetails = ({ donation }) => {
   }
   return (
     <>
-      <div className="container mx-auto mt-40 py-14 ">
+      <div className="container mx-auto mt-4 py-14 ">
         <div className="max-w-5xl mx-auto">
           <div className="card card-compact ">
             <figure>
