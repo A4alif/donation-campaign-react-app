@@ -1,18 +1,17 @@
-import React from 'react'
-import useFetch from '../../hooks/useFetch'
-import { useLoaderData, useParams } from 'react-router-dom'
-import SingleDonationDetails from './SingleDonationDetails';
+import React from "react";
+import { useLoaderData, useParams } from "react-router-dom";
+import SingleDonationDetails from "./SingleDonationDetails";
 
 const SingleDonation = () => {
-    const donations = useLoaderData();
-    const {id} = useParams();
-    const donation = donations.find( (donation) => donation.id == id);
-    
+  const donations = useLoaderData();
+  const { id } = useParams();
+  const donation = donations.find((donation) => donation.id == id);
+
   return (
     <div>
-        <SingleDonationDetails donation= {donation} />
+      <SingleDonationDetails donation={donation} />
     </div>
-  )
-}
+  );
+};
 
-export default SingleDonation
+export default SingleDonation;
